@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 18 21:46:48 2017
 
-@author: marsic
-"""
+
 
 test = "Hello World"
 
